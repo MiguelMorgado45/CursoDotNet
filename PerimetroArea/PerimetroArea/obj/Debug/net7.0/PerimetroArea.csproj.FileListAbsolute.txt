@@ -1,0 +1,15 @@
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\bin\Debug\net7.0\PerimetroArea.exe
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\bin\Debug\net7.0\PerimetroArea.deps.json
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\bin\Debug\net7.0\PerimetroArea.runtimeconfig.json
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\bin\Debug\net7.0\PerimetroArea.dll
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\bin\Debug\net7.0\PerimetroArea.pdb
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\obj\Debug\net7.0\PerimetroArea.csproj.AssemblyReference.cache
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\obj\Debug\net7.0\PerimetroArea.GeneratedMSBuildEditorConfig.editorconfig
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\obj\Debug\net7.0\PerimetroArea.AssemblyInfoInputs.cache
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\obj\Debug\net7.0\PerimetroArea.AssemblyInfo.cs
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\obj\Debug\net7.0\PerimetroArea.csproj.CoreCompileInputs.cache
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\obj\Debug\net7.0\PerimetroArea.dll
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\obj\Debug\net7.0\refint\PerimetroArea.dll
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\obj\Debug\net7.0\PerimetroArea.pdb
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\obj\Debug\net7.0\PerimetroArea.genruntimeconfig.cache
+F:\UPIICSA\DotNet\CursoDotNet\PerimetroArea\PerimetroArea\obj\Debug\net7.0\ref\PerimetroArea.dll
