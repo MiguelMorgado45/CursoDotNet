@@ -1,0 +1,15 @@
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\bin\Debug\net7.0\TeresaSA.exe
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\bin\Debug\net7.0\TeresaSA.deps.json
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\bin\Debug\net7.0\TeresaSA.runtimeconfig.json
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\bin\Debug\net7.0\TeresaSA.dll
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\bin\Debug\net7.0\TeresaSA.pdb
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\obj\Debug\net7.0\TeresaSA.csproj.AssemblyReference.cache
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\obj\Debug\net7.0\TeresaSA.GeneratedMSBuildEditorConfig.editorconfig
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\obj\Debug\net7.0\TeresaSA.AssemblyInfoInputs.cache
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\obj\Debug\net7.0\TeresaSA.AssemblyInfo.cs
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\obj\Debug\net7.0\TeresaSA.csproj.CoreCompileInputs.cache
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\obj\Debug\net7.0\TeresaSA.dll
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\obj\Debug\net7.0\refint\TeresaSA.dll
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\obj\Debug\net7.0\TeresaSA.pdb
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\obj\Debug\net7.0\TeresaSA.genruntimeconfig.cache
+F:\UPIICSA\DotNet\CursoDotNet\TeresaSA\TeresaSA\obj\Debug\net7.0\ref\TeresaSA.dll

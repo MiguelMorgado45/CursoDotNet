@@ -1,0 +1,15 @@
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\bin\Debug\net7.0\Atbash.exe
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\bin\Debug\net7.0\Atbash.deps.json
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\bin\Debug\net7.0\Atbash.runtimeconfig.json
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\bin\Debug\net7.0\Atbash.dll
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\bin\Debug\net7.0\Atbash.pdb
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\obj\Debug\net7.0\Atbash.csproj.AssemblyReference.cache
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\obj\Debug\net7.0\Atbash.GeneratedMSBuildEditorConfig.editorconfig
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\obj\Debug\net7.0\Atbash.AssemblyInfoInputs.cache
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\obj\Debug\net7.0\Atbash.AssemblyInfo.cs
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\obj\Debug\net7.0\Atbash.csproj.CoreCompileInputs.cache
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\obj\Debug\net7.0\Atbash.dll
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\obj\Debug\net7.0\refint\Atbash.dll
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\obj\Debug\net7.0\Atbash.pdb
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\obj\Debug\net7.0\Atbash.genruntimeconfig.cache
+F:\UPIICSA\DotNet\CursoDotNet\Atbash\Atbash\obj\Debug\net7.0\ref\Atbash.dll

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="Producto">
+    <Nombre>Papaya</Nombre>
+    <Tipo>Comida</Tipo>
+    <Precio>20.5</Precio>
+  </anyType>
+  <anyType xsi:type="Producto">
+    <Nombre>Manzana</Nombre>
+    <Tipo>Zapatos</Tipo>
+    <Precio>25</Precio>
+  </anyType>
+  <anyType xsi:type="Producto">
+    <Nombre>Calvin Klein</Nombre>
+    <Tipo>Playeras</Tipo>
+    <Precio>89.5</Precio>
+  </anyType>
+</ArrayOfAnyType>
